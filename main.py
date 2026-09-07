@@ -8,13 +8,13 @@ import time
 universe = 'csi300' # ['csi300','csi800']
 prefix = 'opensource' # ['original','opensource'], which training data are you using
 train_data_dir = f'data'
-with open(f'{train_data_dir}\{prefix}\{universe}_dl_train.pkl', 'rb') as f:
+with open(f'{train_data_dir}/{prefix}/{universe}_dl_train.pkl', 'rb') as f:
     dl_train = pickle.load(f)
 
-predict_data_dir = f'data\opensource'
-with open(f'{predict_data_dir}\{universe}_dl_valid.pkl', 'rb') as f:
+predict_data_dir = f'data/opensource'
+with open(f'{predict_data_dir}/{universe}_dl_valid.pkl', 'rb') as f:
     dl_valid = pickle.load(f)
-with open(f'{predict_data_dir}\{universe}_dl_test.pkl', 'rb') as f:
+with open(f'{predict_data_dir}/{universe}_dl_test.pkl', 'rb') as f:
     dl_test = pickle.load(f)
 
 print("Data Loaded.")
@@ -77,7 +77,7 @@ ricir = []
 # Load and Test
 ######################################################################################
 for seed in [0]:
-    param_path = f'model\{universe}_{prefix}_{seed}.pkl'
+    param_path = f'model/{universe}_{prefix}_{seed}.pkl'
 
     print(f'Model Loaded from {param_path}')
     model = MASTERModel(

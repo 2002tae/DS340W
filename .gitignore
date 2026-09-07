@@ -1,0 +1,6 @@
+data/opensource/
+data/original/
+*.pkl
+!model/*.pkl
+.venv/
+__pycache__/
