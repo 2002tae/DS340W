@@ -127,3 +127,30 @@ If you use the data or the code, please cite our work! :smile:
 ```
 
 
+
+---
+
+## DS340W — Phase 1 Reproduction
+
+This repository is a fork of the official implementation of:
+
+> Li, T., Liu, Z., Shen, Y., Wang, X., Chen, H., & Huang, S. (2024).
+> MASTER: Market-Guided Stock Transformer for Stock Price Forecasting.
+> AAAI 2024, Vol. 38. DOI: 10.1609/aaai.v38i1.27767
+> Original repository: https://github.com/SJTU-DMTai/MASTER
+
+### Changes made for reproduction
+
+- Replaced Windows-style backslash path separators in `main.py` with
+  forward slashes so the code runs on Linux.
+- No changes to the model or training logic.
+
+### Environment
+
+Python 3.10, numpy 1.26.4, pandas 1.5.3, torch 2.11.0+cu128, pyqlib.
+
+### Data
+
+The `.pkl` datasets (~3.1 GB) are excluded from version control.
+Download from the links in the original README and place under
+`data/opensource/`.
