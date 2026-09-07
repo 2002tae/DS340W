@@ -154,3 +154,14 @@ Python 3.10, numpy 1.26.4, pandas 1.5.3, torch 2.11.0+cu128, pyqlib.
 The `.pkl` datasets (~3.1 GB) are excluded from version control.
 Download from the links in the original README and place under
 `data/opensource/`.
+
+### Bug encountered in the released code
+
+`base_model.py` uses `self.fitted` for two purposes: a trained/untrained flag
+and an epoch counter. `fit()` assigns an integer (line 162), but
+`load_param()` assigns the string `'Previously trained.'` (line 155), while
+`predict()` compares it against an integer (line 175). The checkpoint-loading
+path therefore raises `TypeError` before any prediction is made.
+
+Rather than edit the model code, one line was added in `main.py` to set the
+flag to an integer after loading. Model weights and predictions are unaffected.

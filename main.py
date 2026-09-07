@@ -87,6 +87,7 @@ for seed in [0]:
             save_path='model/', save_prefix=universe
         )
     model.load_param(param_path)
+    model.fitted = 0  # load_param() sets a str; predict() compares it to int
     predictions, metrics = model.predict(dl_test)
     print(metrics)
 
