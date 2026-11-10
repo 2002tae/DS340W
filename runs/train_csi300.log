@@ -1,0 +1,297 @@
+Data Loaded.
+Epoch: 0
+Epoch 0, train_loss 1.037882, valid ic 0.0837, icir 0.560, rankic 0.0943, rankicir 0.665.
+Epoch: 1
+Epoch 1, train_loss 0.996657, valid ic 0.1007, icir 0.738, rankic 0.1092, rankicir 0.791.
+Epoch: 2
+Epoch 2, train_loss 0.989548, valid ic 0.1034, icir 0.744, rankic 0.1047, rankicir 0.739.
+Epoch: 3
+Epoch 3, train_loss 0.986533, valid ic 0.0924, icir 0.663, rankic 0.1026, rankicir 0.747.
+Epoch: 4
+Epoch 4, train_loss 0.984099, valid ic 0.1030, icir 0.767, rankic 0.1098, rankicir 0.799.
+Epoch: 5
+Epoch 5, train_loss 0.982154, valid ic 0.0986, icir 0.713, rankic 0.1037, rankicir 0.743.
+Epoch: 6
+Epoch 6, train_loss 0.980655, valid ic 0.0947, icir 0.695, rankic 0.1005, rankicir 0.744.
+Epoch: 7
+Epoch 7, train_loss 0.978611, valid ic 0.0801, icir 0.574, rankic 0.0901, rankicir 0.672.
+Epoch: 8
+Epoch 8, train_loss 0.977133, valid ic 0.0921, icir 0.729, rankic 0.0917, rankicir 0.702.
+Epoch: 9
+Epoch 9, train_loss 0.975385, valid ic 0.0910, icir 0.711, rankic 0.0945, rankicir 0.736.
+Epoch: 10
+Epoch 10, train_loss 0.973861, valid ic 0.0925, icir 0.712, rankic 0.0916, rankicir 0.691.
+Epoch: 11
+Epoch 11, train_loss 0.971844, valid ic 0.0886, icir 0.746, rankic 0.0913, rankicir 0.737.
+Epoch: 12
+Epoch 12, train_loss 0.970388, valid ic 0.0822, icir 0.681, rankic 0.0823, rankicir 0.633.
+Epoch: 13
+Epoch 13, train_loss 0.968719, valid ic 0.0863, icir 0.712, rankic 0.0866, rankicir 0.671.
+Epoch: 14
+Epoch 14, train_loss 0.967043, valid ic 0.0843, icir 0.653, rankic 0.0848, rankicir 0.643.
+Epoch: 15
+Epoch 15, train_loss 0.965507, valid ic 0.0643, icir 0.519, rankic 0.0714, rankicir 0.533.
+Epoch: 16
+Epoch 16, train_loss 0.963877, valid ic 0.0768, icir 0.684, rankic 0.0798, rankicir 0.666.
+Epoch: 17
+Epoch 17, train_loss 0.962377, valid ic 0.0645, icir 0.558, rankic 0.0670, rankicir 0.565.
+Epoch: 18
+Epoch 18, train_loss 0.960887, valid ic 0.0703, icir 0.609, rankic 0.0744, rankicir 0.620.
+Epoch: 19
+Epoch 19, train_loss 0.958855, valid ic 0.0789, icir 0.684, rankic 0.0810, rankicir 0.639.
+Epoch: 20
+Epoch 20, train_loss 0.957594, valid ic 0.0560, icir 0.459, rankic 0.0571, rankicir 0.487.
+Epoch: 21
+Epoch 21, train_loss 0.955681, valid ic 0.0661, icir 0.576, rankic 0.0676, rankicir 0.568.
+Epoch: 22
+Epoch 22, train_loss 0.953664, valid ic 0.0448, icir 0.339, rankic 0.0522, rankicir 0.396.
+Epoch: 23
+Epoch 23, train_loss 0.952774, valid ic 0.0642, icir 0.566, rankic 0.0649, rankicir 0.537.
+Epoch: 24
+Epoch 24, train_loss 0.951459, valid ic 0.0441, icir 0.330, rankic 0.0496, rankicir 0.379.
+Epoch: 25
+Epoch 25, train_loss 0.949456, valid ic 0.0729, icir 0.629, rankic 0.0734, rankicir 0.590.
+Model Trained.
+Epoch: 25
+Seed: 0 time cost : 990.91 sec
+{'IC': 0.0649102178705399, 'ICIR': 0.4476753916209454, 'RIC': 0.06836957745932598, 'RICIR': 0.45735324577168335}
+Epoch: 0
+Epoch 0, train_loss 1.031436, valid ic 0.1218, icir 0.880, rankic 0.1123, rankicir 0.800.
+Epoch: 1
+Epoch 1, train_loss 0.994787, valid ic 0.1007, icir 0.828, rankic 0.1050, rankicir 0.896.
+Epoch: 2
+Epoch 2, train_loss 0.989088, valid ic 0.1246, icir 0.929, rankic 0.1234, rankicir 0.891.
+Epoch: 3
+Epoch 3, train_loss 0.986151, valid ic 0.0997, icir 0.711, rankic 0.1076, rankicir 0.813.
+Epoch: 4
+Epoch 4, train_loss 0.984199, valid ic 0.0947, icir 0.605, rankic 0.1030, rankicir 0.699.
+Epoch: 5
+Epoch 5, train_loss 0.982862, valid ic 0.1117, icir 0.869, rankic 0.1158, rankicir 0.909.
+Epoch: 6
+Epoch 6, train_loss 0.980809, valid ic 0.0979, icir 0.715, rankic 0.1029, rankicir 0.797.
+Epoch: 7
+Epoch 7, train_loss 0.979310, valid ic 0.1042, icir 0.723, rankic 0.1090, rankicir 0.797.
+Epoch: 8
+Epoch 8, train_loss 0.977796, valid ic 0.0956, icir 0.788, rankic 0.1024, rankicir 0.827.
+Epoch: 9
+Epoch 9, train_loss 0.976366, valid ic 0.0956, icir 0.747, rankic 0.1017, rankicir 0.794.
+Epoch: 10
+Epoch 10, train_loss 0.974547, valid ic 0.0966, icir 0.758, rankic 0.1013, rankicir 0.799.
+Epoch: 11
+Epoch 11, train_loss 0.973038, valid ic 0.0954, icir 0.738, rankic 0.1011, rankicir 0.795.
+Epoch: 12
+Epoch 12, train_loss 0.971540, valid ic 0.0870, icir 0.734, rankic 0.0976, rankicir 0.815.
+Epoch: 13
+Epoch 13, train_loss 0.970327, valid ic 0.0808, icir 0.695, rankic 0.0913, rankicir 0.754.
+Epoch: 14
+Epoch 14, train_loss 0.968792, valid ic 0.0704, icir 0.589, rankic 0.0798, rankicir 0.655.
+Epoch: 15
+Epoch 15, train_loss 0.967029, valid ic 0.0876, icir 0.773, rankic 0.0967, rankicir 0.827.
+Epoch: 16
+Epoch 16, train_loss 0.965722, valid ic 0.0641, icir 0.539, rankic 0.0762, rankicir 0.626.
+Epoch: 17
+Epoch 17, train_loss 0.963995, valid ic 0.0725, icir 0.599, rankic 0.0813, rankicir 0.648.
+Epoch: 18
+Epoch 18, train_loss 0.962492, valid ic 0.0605, icir 0.499, rankic 0.0709, rankicir 0.545.
+Epoch: 19
+Epoch 19, train_loss 0.960858, valid ic 0.0808, icir 0.658, rankic 0.0888, rankicir 0.714.
+Epoch: 20
+Epoch 20, train_loss 0.959364, valid ic 0.0628, icir 0.521, rankic 0.0705, rankicir 0.552.
+Epoch: 21
+Epoch 21, train_loss 0.957984, valid ic 0.0806, icir 0.668, rankic 0.0886, rankicir 0.692.
+Epoch: 22
+Epoch 22, train_loss 0.956301, valid ic 0.0620, icir 0.485, rankic 0.0722, rankicir 0.596.
+Epoch: 23
+Epoch 23, train_loss 0.954425, valid ic 0.0655, icir 0.556, rankic 0.0753, rankicir 0.593.
+Epoch: 24
+Epoch 24, train_loss 0.952970, valid ic 0.0578, icir 0.463, rankic 0.0688, rankicir 0.512.
+Epoch: 25
+Epoch 25, train_loss 0.951756, valid ic 0.0624, icir 0.499, rankic 0.0740, rankicir 0.556.
+Epoch: 26
+Epoch 26, train_loss 0.949956, valid ic 0.0820, icir 0.675, rankic 0.0904, rankicir 0.682.
+Model Trained.
+Epoch: 26
+Seed: 1 time cost : 1030.10 sec
+{'IC': 0.05718338781528287, 'ICIR': 0.39522360797331707, 'RIC': 0.06273134000076741, 'RICIR': 0.42057076110301006}
+Epoch: 0
+Epoch 0, train_loss 1.036841, valid ic 0.0994, icir 0.788, rankic 0.1048, rankicir 0.791.
+Epoch: 1
+Epoch 1, train_loss 0.996489, valid ic 0.1021, icir 0.832, rankic 0.1120, rankicir 0.880.
+Epoch: 2
+Epoch 2, train_loss 0.989762, valid ic 0.1143, icir 0.786, rankic 0.1180, rankicir 0.832.
+Epoch: 3
+Epoch 3, train_loss 0.987061, valid ic 0.1134, icir 0.809, rankic 0.1174, rankicir 0.839.
+Epoch: 4
+Epoch 4, train_loss 0.984550, valid ic 0.1164, icir 0.866, rankic 0.1116, rankicir 0.772.
+Epoch: 5
+Epoch 5, train_loss 0.982878, valid ic 0.1046, icir 0.697, rankic 0.1070, rankicir 0.743.
+Epoch: 6
+Epoch 6, train_loss 0.980950, valid ic 0.0868, icir 0.573, rankic 0.0942, rankicir 0.669.
+Epoch: 7
+Epoch 7, train_loss 0.979178, valid ic 0.0819, icir 0.583, rankic 0.0918, rankicir 0.697.
+Epoch: 8
+Epoch 8, train_loss 0.977681, valid ic 0.0863, icir 0.637, rankic 0.0902, rankicir 0.672.
+Epoch: 9
+Epoch 9, train_loss 0.975936, valid ic 0.0744, icir 0.553, rankic 0.0807, rankicir 0.627.
+Epoch: 10
+Epoch 10, train_loss 0.974825, valid ic 0.0999, icir 0.788, rankic 0.0983, rankicir 0.744.
+Epoch: 11
+Epoch 11, train_loss 0.973148, valid ic 0.0801, icir 0.604, rankic 0.0849, rankicir 0.649.
+Epoch: 12
+Epoch 12, train_loss 0.971562, valid ic 0.0726, icir 0.526, rankic 0.0752, rankicir 0.559.
+Epoch: 13
+Epoch 13, train_loss 0.970181, valid ic 0.0707, icir 0.484, rankic 0.0742, rankicir 0.538.
+Epoch: 14
+Epoch 14, train_loss 0.968768, valid ic 0.0832, icir 0.650, rankic 0.0876, rankicir 0.678.
+Epoch: 15
+Epoch 15, train_loss 0.966702, valid ic 0.0888, icir 0.660, rankic 0.0896, rankicir 0.658.
+Epoch: 16
+Epoch 16, train_loss 0.965514, valid ic 0.0917, icir 0.738, rankic 0.0936, rankicir 0.697.
+Epoch: 17
+Epoch 17, train_loss 0.963922, valid ic 0.0699, icir 0.565, rankic 0.0765, rankicir 0.607.
+Epoch: 18
+Epoch 18, train_loss 0.962176, valid ic 0.0749, icir 0.572, rankic 0.0761, rankicir 0.614.
+Epoch: 19
+Epoch 19, train_loss 0.960736, valid ic 0.0526, icir 0.409, rankic 0.0616, rankicir 0.513.
+Epoch: 20
+Epoch 20, train_loss 0.958934, valid ic 0.0591, icir 0.459, rankic 0.0639, rankicir 0.527.
+Epoch: 21
+Epoch 21, train_loss 0.957182, valid ic 0.0646, icir 0.487, rankic 0.0708, rankicir 0.578.
+Epoch: 22
+Epoch 22, train_loss 0.955631, valid ic 0.0743, icir 0.582, rankic 0.0808, rankicir 0.650.
+Epoch: 23
+Epoch 23, train_loss 0.954410, valid ic 0.0674, icir 0.527, rankic 0.0736, rankicir 0.577.
+Epoch: 24
+Epoch 24, train_loss 0.952734, valid ic 0.0685, icir 0.538, rankic 0.0761, rankicir 0.626.
+Epoch: 25
+Epoch 25, train_loss 0.951283, valid ic 0.0752, icir 0.566, rankic 0.0811, rankicir 0.599.
+Epoch: 26
+Epoch 26, train_loss 0.949855, valid ic 0.0638, icir 0.490, rankic 0.0713, rankicir 0.575.
+Model Trained.
+Epoch: 26
+Seed: 2 time cost : 1020.14 sec
+{'IC': 0.06533920203664488, 'ICIR': 0.43992613965220406, 'RIC': 0.06849194951755228, 'RICIR': 0.4471200959040922}
+Epoch: 0
+Epoch 0, train_loss 1.037834, valid ic 0.0821, icir 0.625, rankic 0.0857, rankicir 0.693.
+Epoch: 1
+Epoch 1, train_loss 0.995942, valid ic 0.1165, icir 0.799, rankic 0.1097, rankicir 0.735.
+Epoch: 2
+Epoch 2, train_loss 0.989405, valid ic 0.1037, icir 0.785, rankic 0.1070, rankicir 0.832.
+Epoch: 3
+Epoch 3, train_loss 0.986470, valid ic 0.1021, icir 0.746, rankic 0.1079, rankicir 0.811.
+Epoch: 4
+Epoch 4, train_loss 0.984316, valid ic 0.0984, icir 0.734, rankic 0.1088, rankicir 0.855.
+Epoch: 5
+Epoch 5, train_loss 0.982517, valid ic 0.0893, icir 0.681, rankic 0.1000, rankicir 0.834.
+Epoch: 6
+Epoch 6, train_loss 0.980746, valid ic 0.1029, icir 0.752, rankic 0.1034, rankicir 0.777.
+Epoch: 7
+Epoch 7, train_loss 0.979609, valid ic 0.1026, icir 0.748, rankic 0.1084, rankicir 0.860.
+Epoch: 8
+Epoch 8, train_loss 0.978075, valid ic 0.0993, icir 0.834, rankic 0.0999, rankicir 0.794.
+Epoch: 9
+Epoch 9, train_loss 0.976254, valid ic 0.1006, icir 0.759, rankic 0.1062, rankicir 0.848.
+Epoch: 10
+Epoch 10, train_loss 0.974749, valid ic 0.1102, icir 0.824, rankic 0.1100, rankicir 0.813.
+Epoch: 11
+Epoch 11, train_loss 0.973181, valid ic 0.0788, icir 0.620, rankic 0.0855, rankicir 0.723.
+Epoch: 12
+Epoch 12, train_loss 0.972046, valid ic 0.0835, icir 0.665, rankic 0.0921, rankicir 0.766.
+Epoch: 13
+Epoch 13, train_loss 0.970303, valid ic 0.0885, icir 0.743, rankic 0.0951, rankicir 0.788.
+Epoch: 14
+Epoch 14, train_loss 0.969102, valid ic 0.0826, icir 0.587, rankic 0.0836, rankicir 0.661.
+Epoch: 15
+Epoch 15, train_loss 0.966996, valid ic 0.0995, icir 0.741, rankic 0.0999, rankicir 0.729.
+Epoch: 16
+Epoch 16, train_loss 0.965752, valid ic 0.0737, icir 0.594, rankic 0.0783, rankicir 0.657.
+Epoch: 17
+Epoch 17, train_loss 0.964337, valid ic 0.0828, icir 0.719, rankic 0.0876, rankicir 0.718.
+Epoch: 18
+Epoch 18, train_loss 0.962803, valid ic 0.0707, icir 0.580, rankic 0.0813, rankicir 0.683.
+Epoch: 19
+Epoch 19, train_loss 0.960895, valid ic 0.0803, icir 0.685, rankic 0.0864, rankicir 0.723.
+Epoch: 20
+Epoch 20, train_loss 0.959863, valid ic 0.0649, icir 0.555, rankic 0.0746, rankicir 0.629.
+Epoch: 21
+Epoch 21, train_loss 0.958320, valid ic 0.0624, icir 0.519, rankic 0.0716, rankicir 0.606.
+Epoch: 22
+Epoch 22, train_loss 0.956699, valid ic 0.0745, icir 0.642, rankic 0.0811, rankicir 0.692.
+Epoch: 23
+Epoch 23, train_loss 0.954875, valid ic 0.0833, icir 0.702, rankic 0.0849, rankicir 0.671.
+Epoch: 24
+Epoch 24, train_loss 0.954121, valid ic 0.0717, icir 0.582, rankic 0.0802, rankicir 0.665.
+Epoch: 25
+Epoch 25, train_loss 0.952465, valid ic 0.0691, icir 0.554, rankic 0.0784, rankicir 0.646.
+Epoch: 26
+Epoch 26, train_loss 0.950458, valid ic 0.0702, icir 0.548, rankic 0.0753, rankicir 0.618.
+Epoch: 27
+Epoch 27, train_loss 0.949575, valid ic 0.0640, icir 0.490, rankic 0.0761, rankicir 0.644.
+Model Trained.
+Epoch: 27
+Seed: 3 time cost : 1030.32 sec
+{'IC': 0.04727636015381815, 'ICIR': 0.2898211414945294, 'RIC': 0.0573804860743432, 'RICIR': 0.34342514840695687}
+Epoch: 0
+Epoch 0, train_loss 1.054576, valid ic 0.0975, icir 0.796, rankic 0.1026, rankicir 0.857.
+Epoch: 1
+Epoch 1, train_loss 0.997979, valid ic 0.1123, icir 0.703, rankic 0.1145, rankicir 0.754.
+Epoch: 2
+Epoch 2, train_loss 0.990772, valid ic 0.1023, icir 0.798, rankic 0.1113, rankicir 0.852.
+Epoch: 3
+Epoch 3, train_loss 0.987321, valid ic 0.1183, icir 0.847, rankic 0.1263, rankicir 0.927.
+Epoch: 4
+Epoch 4, train_loss 0.985113, valid ic 0.0917, icir 0.626, rankic 0.1048, rankicir 0.767.
+Epoch: 5
+Epoch 5, train_loss 0.983410, valid ic 0.1145, icir 0.819, rankic 0.1222, rankicir 0.881.
+Epoch: 6
+Epoch 6, train_loss 0.981427, valid ic 0.1075, icir 0.749, rankic 0.1142, rankicir 0.814.
+Epoch: 7
+Epoch 7, train_loss 0.979913, valid ic 0.0926, icir 0.624, rankic 0.1014, rankicir 0.711.
+Epoch: 8
+Epoch 8, train_loss 0.978358, valid ic 0.0856, icir 0.612, rankic 0.0963, rankicir 0.717.
+Epoch: 9
+Epoch 9, train_loss 0.977172, valid ic 0.0921, icir 0.665, rankic 0.1007, rankicir 0.730.
+Epoch: 10
+Epoch 10, train_loss 0.975531, valid ic 0.0973, icir 0.734, rankic 0.1044, rankicir 0.754.
+Epoch: 11
+Epoch 11, train_loss 0.973939, valid ic 0.0859, icir 0.625, rankic 0.0982, rankicir 0.726.
+Epoch: 12
+Epoch 12, train_loss 0.972226, valid ic 0.0810, icir 0.604, rankic 0.0896, rankicir 0.646.
+Epoch: 13
+Epoch 13, train_loss 0.970983, valid ic 0.0893, icir 0.632, rankic 0.0958, rankicir 0.672.
+Epoch: 14
+Epoch 14, train_loss 0.969433, valid ic 0.0887, icir 0.639, rankic 0.0950, rankicir 0.679.
+Epoch: 15
+Epoch 15, train_loss 0.967746, valid ic 0.0662, icir 0.462, rankic 0.0727, rankicir 0.549.
+Epoch: 16
+Epoch 16, train_loss 0.966013, valid ic 0.0779, icir 0.552, rankic 0.0776, rankicir 0.578.
+Epoch: 17
+Epoch 17, train_loss 0.964381, valid ic 0.0524, icir 0.404, rankic 0.0616, rankicir 0.492.
+Epoch: 18
+Epoch 18, train_loss 0.962915, valid ic 0.0793, icir 0.551, rankic 0.0811, rankicir 0.568.
+Epoch: 19
+Epoch 19, train_loss 0.961473, valid ic 0.0765, icir 0.508, rankic 0.0782, rankicir 0.551.
+Epoch: 20
+Epoch 20, train_loss 0.959661, valid ic 0.0733, icir 0.547, rankic 0.0764, rankicir 0.520.
+Epoch: 21
+Epoch 21, train_loss 0.958111, valid ic 0.0729, icir 0.530, rankic 0.0784, rankicir 0.577.
+Epoch: 22
+Epoch 22, train_loss 0.956563, valid ic 0.0824, icir 0.600, rankic 0.0860, rankicir 0.588.
+Epoch: 23
+Epoch 23, train_loss 0.955626, valid ic 0.0687, icir 0.488, rankic 0.0710, rankicir 0.514.
+Epoch: 24
+Epoch 24, train_loss 0.953560, valid ic 0.0742, icir 0.529, rankic 0.0735, rankicir 0.540.
+Epoch: 25
+Epoch 25, train_loss 0.952029, valid ic 0.0749, icir 0.512, rankic 0.0750, rankicir 0.525.
+Epoch: 26
+Epoch 26, train_loss 0.950947, valid ic 0.0714, icir 0.496, rankic 0.0713, rankicir 0.524.
+Epoch: 27
+Epoch 27, train_loss 0.948956, valid ic 0.0552, icir 0.406, rankic 0.0552, rankicir 0.414.
+Model Trained.
+Epoch: 27
+Seed: 4 time cost : 1038.44 sec
+{'IC': 0.06157344430895448, 'ICIR': 0.4141954154853162, 'RIC': 0.06891319514735057, 'RICIR': 0.45435678059121276}
+IC: 0.0593 pm 0.0067
+ICIR: 0.3974 pm 0.0569
+RIC: 0.0652 pm 0.0045
+RICIR: 0.4246 pm 0.0426
